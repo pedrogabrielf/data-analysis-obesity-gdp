@@ -51,7 +51,7 @@ Gráficos de diferentes tipos foram utilizados para explorar os dados, como hist
     ├── analysis.ipynb         # Notebook com as análises realizadas
     ├── README.md              # Instruções e descrição do projeto
     └── requirements.txt       # Dependências necessárias
-    ```
+
 ## 📝 Licença
 
 Este projeto é para fins educacionais e está disponível sob a licença MIT. Sinta-se à vontade para contribuir!
