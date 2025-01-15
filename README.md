@@ -44,14 +44,14 @@ Gráficos de diferentes tipos foram utilizados para explorar os dados, como hist
 4. Execute o notebook *analysis.ipynb* para visualizar as análises.
 
 ## 📂 Estrutura do Repositório
-    ```bash
+    ```
     data-analysis-obesity-gdp/
     │
     ├── Datasets/              # Contém os conjuntos de dados utilizados
     ├── analysis.ipynb         # Notebook com as análises realizadas
     ├── README.md              # Instruções e descrição do projeto
     └── requirements.txt       # Dependências necessárias
-
+    ```
 ## 📝 Licença
 
 Este projeto é para fins educacionais e está disponível sob a licença MIT. Sinta-se à vontade para contribuir!
